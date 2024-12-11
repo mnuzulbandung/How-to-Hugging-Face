@@ -22,6 +22,7 @@ Untuk mengatasi tantangan tersebut, Hugging Face dapat digunakan. Hugging Face a
 
 * Memiliki fitur Spaces untuk meng-host aplikasi dan aplikasi ini bisa dibagi melalui URL yang dapat diakses oleh siapa pun. Sehingga, progress report akan menjadi lebih efisien karena pihak lain tidak menjalankan aplikasi yang sudah di-deploy secara langsung di device atau server lokal.
 * Fitur Spaces memiliki spesifikasi (untuk versi gratis) 2 CPU cores, 16 GB RAM, dan 50 GB memori.
+* Aplikasi di-host berdasarkan web interface, sehingga membutuhkan Library seperti Streamlit atau Gradio dalam Aplikasi.
 * User dapat menentukan apakah script dari aplikasi bersifat publik atau tidak.
 * Aplikasi yang sudah di-deploy dapat dengan mudah diubah.
 * Dapat digunakan untuk kolaborasi layaknya GitHub.
